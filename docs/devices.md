@@ -14,3 +14,4 @@ Pixel 3a XL | 10.0 | Akai LPK25 Wireless | PASS | PASS
 Pixel 4 | 10.0 | Akai LPK25 Wireless | PASS | PASS
 Samsung S9 | 10 | Yamaha PSR e423 - K1 | fail | --
 Samsung S10+ (LSI) | 9.0 | Akai LPK25 Wireless | PASS | PASS
+Samsung S9 | 10 | Roland HP603 | PASS | PASS
